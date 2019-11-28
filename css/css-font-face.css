@@ -1,0 +1,15 @@
+@font-face {
+font-family: "raleway_light";
+src: url("font/raleway_thin-webfont.eot") format("eot"),
+url("font/raleway_thin-webfont.woff") format("woff"),
+url("font/raleway_thin-webfont.ttf") format("ttf"),
+url("font/raleway_thin-webfont.svg") format("svg");
+}
+
+p.fontface {
+  font-family: raleway_light;
+}
+
+p.fontgoogle {
+  font-family: 'Black And White Picture', sans-serif;
+}
